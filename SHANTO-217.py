@@ -258,7 +258,7 @@ def menu():
 	if _____SHANTO_____ in ['3']:
 		BER()
 	if _____SHANTO_____ in ['4']:
-		#os.system("xdg-open https://www.facebook.com/profile.php?id=100000448332183")
+		os.system("xdg-open https://www.facebook.com/profile.php?id=100000448332183")
 	if _____SHANTO_____ in ['0']:
 		exit()
 	
